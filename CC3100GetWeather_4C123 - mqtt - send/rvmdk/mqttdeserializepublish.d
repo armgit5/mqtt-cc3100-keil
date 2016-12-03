@@ -1,0 +1,11 @@
+.\rvmdk\mqttdeserializepublish.o: src\MQTTDeserializePublish.c
+.\rvmdk\mqttdeserializepublish.o: src\StackTrace.h
+.\rvmdk\mqttdeserializepublish.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\rvmdk\mqttdeserializepublish.o: src\MQTTPacket.h
+.\rvmdk\mqttdeserializepublish.o: src\MQTTConnect.h
+.\rvmdk\mqttdeserializepublish.o: src\MQTTPublish.h
+.\rvmdk\mqttdeserializepublish.o: src\MQTTSubscribe.h
+.\rvmdk\mqttdeserializepublish.o: src\MQTTUnsubscribe.h
+.\rvmdk\mqttdeserializepublish.o: src\MQTTFormat.h
+.\rvmdk\mqttdeserializepublish.o: src\MQTTPacket.h
+.\rvmdk\mqttdeserializepublish.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h

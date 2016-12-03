@@ -1,0 +1,11 @@
+.\rvmdk\mqttconnectclient.o: src\MQTTConnectClient.c
+.\rvmdk\mqttconnectclient.o: src\MQTTPacket.h
+.\rvmdk\mqttconnectclient.o: src\MQTTConnect.h
+.\rvmdk\mqttconnectclient.o: src\MQTTPublish.h
+.\rvmdk\mqttconnectclient.o: src\MQTTSubscribe.h
+.\rvmdk\mqttconnectclient.o: src\MQTTUnsubscribe.h
+.\rvmdk\mqttconnectclient.o: src\MQTTFormat.h
+.\rvmdk\mqttconnectclient.o: src\StackTrace.h
+.\rvmdk\mqttconnectclient.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\rvmdk\mqttconnectclient.o: src\MQTTPacket.h
+.\rvmdk\mqttconnectclient.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h

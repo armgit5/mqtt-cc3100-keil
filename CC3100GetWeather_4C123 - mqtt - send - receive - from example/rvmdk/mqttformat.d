@@ -1,0 +1,11 @@
+.\rvmdk\mqttformat.o: src\MQTTFormat.c
+.\rvmdk\mqttformat.o: src\StackTrace.h
+.\rvmdk\mqttformat.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\rvmdk\mqttformat.o: src\MQTTPacket.h
+.\rvmdk\mqttformat.o: src\MQTTConnect.h
+.\rvmdk\mqttformat.o: src\MQTTPublish.h
+.\rvmdk\mqttformat.o: src\MQTTSubscribe.h
+.\rvmdk\mqttformat.o: src\MQTTUnsubscribe.h
+.\rvmdk\mqttformat.o: src\MQTTFormat.h
+.\rvmdk\mqttformat.o: src\MQTTPacket.h
+.\rvmdk\mqttformat.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
